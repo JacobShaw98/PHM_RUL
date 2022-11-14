@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-datetime
-matplotlib
-rfpimp
-st_aggrid
