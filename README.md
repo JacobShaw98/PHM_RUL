@@ -27,12 +27,12 @@ The dataset provide data for 3 faults:
 - Data analysis divided to 3 parts. Each fault will be analyzed separately. 
 - We begin with Flowcool Pressure Dropped Below Limit Fault.
 - Fixture Shutter Position is set to 1 as most of the activity is on this setting.
+- The Rotation Speed feature is dropped as it is constant. The time feature is also dropped.
+- New classification features are created using cutoffs for failure.
 
 ### Streamlit
 Go to https://jacobshaw98-phm-rul-streamlitdata-690-proj-2-github-4azyyj.streamlit.app/ to access the webhosted version of our interface
 When asked to upload a CSV, upload the CSV that is located in the streamlit folder named 690_fault_1
-- The Rotation Speed feature is dropped as it is constant. The time feature is also dropped.
-- New classification features are created using cutoffs for failure.
 
 # Tools used
 - Numpy, Pandas, Matplotlib, Seaborn, Sklearn - Random Forest Regressor, Random Forest Classifier, Train-Test Split, TimeSeriesSplit.
