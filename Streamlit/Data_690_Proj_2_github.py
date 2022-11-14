@@ -39,12 +39,12 @@ if side == "Live":
         
         #loaded classifier from pickle
         import pickle
-        filename = 'RFC_10.sav'
+        filename = 'Streamlit/RFC_10.sav'
         RFC = pickle.load(open(filename, 'rb'))
         
         #loaded Regressor from pickle        
         import pickle
-        filename = 'RFR_Overfit.sav'
+        filename = 'Streamlit/RFR_Overfit.sav'
         RFR_Overfit = pickle.load(open(filename, 'rb'))
         
         #left and right columns to see live dashboard with machine status
