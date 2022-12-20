@@ -35,4 +35,4 @@ Go to https://jacobshaw98-phm-rul-streamlitdata-690-proj-2-github-4azyyj.streaml
 When asked to upload a CSV, upload the CSV that is located in the streamlit folder named 690_fault_1
 
 ### Tools used
-- Numpy, Pandas, Matplotlib, Seaborn, Sklearn - Random Forest Regressor, Random Forest Classifier, Train-Test Split, TimeSeriesSplit, Streamlit, rfpimp.
+- Numpy, Pandas, Matplotlib, Seaborn, Sklearn - Random Forest Regressor, Random Forest Classifier, Train-Test Split, TimeSeriesSplit, Streamlit, LSTM, Gradient Boosting Classifier, Logistic Regression, Cross Validation, Lasso, and Ridge
