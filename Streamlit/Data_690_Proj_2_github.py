@@ -8,6 +8,7 @@ from st_aggrid import GridOptionsBuilder, AgGrid
 pd.options.mode.chained_assignment = None
 import matplotlib.pyplot as plt
 import rfpimp
+import sklearn
 
 #page layout and header
 st.set_page_config(layout="wide")
