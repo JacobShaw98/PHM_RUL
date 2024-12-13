@@ -4,5 +4,5 @@ numpy
 datetime
 matplotlib
 streamlit-aggrid
-rfpimp==1.3.7
-scikit-learn==1.1.3
+rfpimp
+scikit-learn
