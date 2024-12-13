@@ -1,6 +1,6 @@
 streamlit
 pandas
-numpy
+numpy==1.26.4
 datetime
 matplotlib
 streamlit-aggrid
